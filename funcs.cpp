@@ -1,3 +1,11 @@
+/*
+Author: Shahzaib Fareed
+Course: CSCI-135
+Instructor: Zamansky
+Assignment: Lab 8
+
+funcs for the lab.
+*/
 #include <iostream>
 #include "imageio.h"
 
